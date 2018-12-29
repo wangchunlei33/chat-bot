@@ -1,7 +1,7 @@
 # chat-bot
 
 > It's a vue project for chatBot.
-> demo: [ChatBot](http://localhost:8081/#/)
+> [Demo](http://localhost:8081/#/)
 
 ## Build Setup
 
